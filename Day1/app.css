@@ -1,0 +1,30 @@
+﻿body
+{
+    font-family: sans-serif;
+    background-color: whitesmoke;
+    color: black;
+}
+
+li 
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.medium
+{
+    background-color: yellow;
+    padding: 10px;
+}
+
+.novice
+{
+    background-color: darkgrey;
+    padding: 10px;
+}
+
+.beginner
+{
+    background-color: lightgreen;
+    padding: 10px;
+}
